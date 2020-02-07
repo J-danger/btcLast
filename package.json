@@ -13,7 +13,9 @@
   "author": "Steve Howe",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.19.2",
     "concurrently": "^5.1.0",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
   }
 }
